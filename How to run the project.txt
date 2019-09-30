@@ -1,0 +1,2 @@
+Open below URL in browser and enjoy -
+http://localhost/ProjectManagerUI
